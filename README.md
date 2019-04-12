@@ -1,4 +1,4 @@
-# AVL-Tree-Implementation-
+# AVL-Tree-Implementation-in-Java
 Full AVL Tree implementation with Tests
 
 This was a homework for our Data Structures and Algorithms Lecture.
